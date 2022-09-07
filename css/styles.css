@@ -175,7 +175,7 @@ p {
 .hero {
   margin-top: 2.5rem;
   min-height: 80vh;
-  background-image: url(/img/header-image.jpeg);
+  background-image: url(./img/header-image.jpeg);
   background-size: cover;
   background-position: center;
   display: flex;
